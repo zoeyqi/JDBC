@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+<article mdate="2011-01-11" key="    journals/acta/Saxena96            ">
+<author>Jos&eacute; Pelegrí&aacute; Sebastiá</author>
+<author>Sanjeev Saxena</author>
+<author>Hans-Ulrich Simon</author>
+<title>Parallel Integer Sorting and Simulation Amongst CRCW Models.</title>
+<pages>607-619</pages>
+<volume>33</volume>
+<number>7</number>
+<url>db/journals/acta/acta33.html#Saxena96</url>
+<ee>http://dx.doi.org/10.1007/BF03036466</ee>
+</article>
+<article mdate="2011-01-11" key="journals/acta/Simon83">
+<title>Pattern Matching in Trees and Nets.</title>
+<pages>227-248</pages>
+<year>1983</year>
+<volume>20</volume>
+<journal>Acta Inf.</journal>
+<url>db/journals/acta/acta20.html#Simon83</url>
+<ee>http://dx.doi.org/10.1007/BF01257084</ee>
+</article>
+<inproceedings mdate="2014-10-04" key="conf/icpr/KonyaES10">
+<author>Iuliu&iacute; Vasile Konya</author>
+<author>Stefan Eickeler</author>
+<author>Christoph Seibert</author>
+<title>Fast Seamless Skew and Orientation Detection in Document Images.</title>
+<pages>1924-1928</pages>
+<year>2010</year>
+<booktitle>COIN@AAMAS&amp;AAAI</booktitle>
+<ee>http://dx.doi.org/10.1109/ICPR.2010.474</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPR.2010.474</ee>
+<crossref>conf/icpr/2010</crossref>
+<url>db/conf/icpr/icpr2010.html#KonyaES10</url>
+</inproceedings>
+<proceedings mdate="2014-10-02" key="conf/icpr/ChaiM98">
+<author>Jinxiang Chai</author>
+<author>Songde Ma</author>
+<title>An evolutionary framework for stereo correspondence.</title>
+<pages>841-844</pages>
+<year>1998</year>
+<booktitle>COIN@AAMAS</booktitle>
+<ee>http://dx.doi.org/10.1109/ICPR.1998.711281</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPR.1998.711281</ee>
+<crossref>conf/icpr/1998</crossref>
+<url>db/conf/icpr/icpr1998.html#ChaiM98</url>
+</proceedings>
+<book mdate="2011-01-11" key="journals/acta/Simon83">
+<author>Hans-Ulrich Simon</author>
+<title>Pattern Matching in Trees and Nets.</title>
+<pages>227-248</pages>
+<year>1983</year>
+<volume>20</volume>
+<journal>Acta Inf.</journal>
+<url>db/journals/acta/acta20.html#Simon83</url>
+<ee>http://dx.doi.org/10.1007/BF01257084</ee>
+</book>
+</dblp>
